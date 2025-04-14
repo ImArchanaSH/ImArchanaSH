@@ -1,6 +1,6 @@
 ## Hello there! I am Archana 👋
 
-👨‍💻 I'm a **Software Engineer** with 3+ years of experience, and I'm currently pursuing a **Master's in Cybersecurity**. I'm passionate about building **secure**, **scalable**, and **efficient** software systems.
+👨‍💻 I'm a **Software Engineer** with 3+ years of experience. I'm passionate about building **secure**, **scalable**, and **efficient** software systems.
 
 I thrive in **cross-functional teams**, tackling challenging problems, and continuously learning to stay at the forefront of emerging technologies. As a developer with experience in **backend development, microservices**, and **big data**, I’m committed to creating solutions that are both reliable and secure.
 
